@@ -25,6 +25,15 @@ a {
   color: #00e;
 }
 
+
+section#contact {
+  background-color: #eee;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+
 .footer {
   position: fixed;
   left: 0;
